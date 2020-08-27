@@ -16,13 +16,12 @@
 * `expt.py`：根据网站列表及给定参数生成输出文件。
 
 输出文件：
-* 
+* `mythware_classroom.xml`：用于极域电子教室导入的配置文件。
 * `hosts`：用于替换系统自带的 `hosts` 文件。
   - Linux 下通常位于 `/etc/hosts`。
   - Windows 下通常位于 `C:\WINDOWS\system32\drivers\etc\hosts`。
   
 ## TODO
-* `mythware_classroom.xml`：用于极域电子教室导入的配置文件。
 
 ## 创作笔记 by Tsukimaru
 颓废和进学是现代 OI 主义的根本矛盾。在这不可调和的矛盾的影响下，STJZOI 正面临着颓废大危机——这样下去，STJZOI 的光辉将一去不复返，新建的机房又将沦为新的网吧。思想不进步，不解放，纵使建造多少的新机房，也终究是充盈着腐朽的风气。
